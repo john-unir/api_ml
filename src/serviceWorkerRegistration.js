@@ -1,5 +1,3 @@
-// src/serviceWorkerRegistration.js
-
 const isLocalhost = Boolean(
     window.location.hostname === 'localhost' ||
     // [::1] es la dirección IPv6 local
